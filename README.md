@@ -7,5 +7,5 @@
 react-route, todolistapp.
 
 테스트아이디//비밀번호
-test@test.com 
-123456
+
+test@test.com // 123456
